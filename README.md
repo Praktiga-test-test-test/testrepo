@@ -6,3 +6,5 @@ d
 sad
 sa
 sda
+ali
+veli
